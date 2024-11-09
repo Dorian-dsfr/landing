@@ -1,0 +1,21 @@
+.footer {
+  background-color: #2C2B2B;
+  text-align: center;
+  padding: 60px;
+}
+
+.footer a {
+  color: #1EDD88;
+  margin-inline: 10px;
+  transition: all 0.2s;
+}
+
+.footer a:hover {
+  color: #18ac6a;
+  margin-inline: 10px;
+  font-size: 1.2rem;
+}
+
+.footer p {
+  color: #6B6C6C;
+}
